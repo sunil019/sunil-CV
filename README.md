@@ -1,4 +1,4 @@
-[![LinkedIn](https://github.com/sunil019/public-image/blob/master/LinkedIn-sunil019.png)]
+[![LinkedIn](https://github.com/sunil019/public-image/raw/master/LinkedIn-sunil019.png)]
 (https://www.linkedin.com/in/sunil-varshney-3a3b3042/)
 
 ## Sunil's CV
