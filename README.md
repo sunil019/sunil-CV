@@ -1,4 +1,5 @@
-![LinkedIn](https://github.com/sunil019/public-image/blob/master/LinkedIn-sunil019.png)
+[![LinkedIn](https://github.com/sunil019/public-image/blob/master/LinkedIn-sunil019.png)]
+https://github.com/sunil019/public-image/blob/master/LinkedIn-sunil019.png
 
 ## Sunil's CV
 
